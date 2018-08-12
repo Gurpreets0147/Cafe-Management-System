@@ -2,7 +2,7 @@
 
 # This project is based upon 'cafe management system'
 # Made by 'Gurpreet Singh'
-# For any suggestion or help please contact on ' Gurpreets0147@gmail.com '
+# For any suggestion or help please contact me on ' Gurpreets0147@gmail.com '
 
 
 
